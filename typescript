@@ -1,0 +1,57 @@
+Script started on 2019-11-09 13:45:47-0500
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# g++ m,[Kain.cpp 
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# g++ main.cpp [7Pscriptg++ main.cpp [7Pscriptg++ main.cpp [K,[K./a.out main.cppp 
+Please type the expression you want to check for correct parathensis
+()^[[D     hello)
+( Has ben placed in fullstack!
+) Has ben placed in fullstack!
+) Has been added to the trackStack
+Pairs ) & ( have complete pairs
+This statement has complete set(s) of parenthesis
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# [(])
+bash: syntax error near unexpected token `]'
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# [(])./a.out main.cppp 
+Please type the expression you want to check for correct parathensis
+[(])
+[ Has ben placed in fullstack!
+( Has ben placed in fullstack!
+] Has ben placed in fullstack!
+) Has ben placed in fullstack!
+) Has been added to the trackStack
+] has been added to the track stack
+your brackets are mixed up and not in proper scope
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# ./a.out main.cppp [A]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# [(])[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out main.cppp 
+Please type the expression you want to check for correct parathensis
+[{})]
+[ Has ben placed in fullstack!
+{ Has ben placed in fullstack!
+} Has ben placed in fullstack!
+) Has ben placed in fullstack!
+] Has ben placed in fullstack!
+] Has been added to the trackStack
+) has been added to the track stack
+} has been added to the track stack
+Pairs } & { have complete pairs
+your brackets are mixed up and not in proper scope
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# ./a.out main.cppp [A]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# [(])[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out main.cppp 
+Please type the expression you want to check for correct parathensis
+(){[]}
+( Has ben placed in fullstack!
+) Has ben placed in fullstack!
+{ Has ben placed in fullstack!
+[ Has ben placed in fullstack!
+] Has ben placed in fullstack!
+} Has ben placed in fullstack!
+} Has been added to the trackStack
+] has been added to the track stack
+Pairs ] & [ have complete pairs
+Pairs } & { have complete pairs
+) Has been added to the trackStack
+Pairs ) & ( have complete pairs
+This statement has complete set(s) of parenthesis
+]0;root@DESKTOP-2O8ATIN: /mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5root@DESKTOP-2O8ATIN:/mnt/c/Users/dajco/OneDrive/Desktop/Fordham/Data Structures/Lab5# exit
+exit
+
+Script done on 2019-11-09 13:47:48-0500
